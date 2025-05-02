@@ -48,12 +48,48 @@
 
 ## 💼 Projects
 
-| Name | Tools | Description |
-|------|-------|-------------|
-| *Sales Dashboard* | Excel | Clean, interactive dashboard with slicers and KPI indicators |
-| *Power BI Report* | Power BI | Data modeling + DAX + visual storytelling |
-| *COVID-19 Analysis* | Python, Pandas, Matplotlib | Real data wrangling, visualization |
-| (More Coming Soon...) | - | - |
+## 🚀 Excel Dashboard Projects
+
+<details open>
+  <summary>📊 <strong>Interactive Dashboard for E-commerce KPIs</strong></summary>
+
+  - 🛒 A dynamic Excel dashboard for tracking e-commerce KPIs including revenue, orders, conversion rates, and customer retention.  
+  - 📌 Includes interactive slicers and visuals for better decision-making.  
+  ![Excel](https://img.shields.io/badge/Excel-Dashboard-217346?logo=microsoft-excel&logoColor=white)  
+  🔗 [View Project](https://github.com/mdnhasan-data/ecommerce-dashboard)
+
+</details>
+
+<details>
+  <summary>📈 <strong>Sales Performance Analysis for Online Retail</strong></summary>
+
+  - 🧾 An Excel report analyzing monthly and quarterly sales, regional performance, and product trends.  
+  - 📊 Built with pivot tables, charts, and interactive filters for drill-down analysis.  
+  ![Excel](https://img.shields.io/badge/Excel-Report-217346?logo=microsoft-excel&logoColor=white)  
+  🔗 [View Project](https://github.com/mdnhasan-data/Retail-Sales-Dashboard)
+
+</details>
+
+<details>
+  <summary>🍪 <strong>Profitability Dashboard for Biscuit Brand</strong></summary>
+
+  - 💰 Visualizes cost, revenue, and profit breakdowns across product lines and sales regions.  
+  - 📦 Built for a fictional brand to demonstrate product-level profitability analysis.  
+  ![Excel](https://img.shields.io/badge/Excel-Profitability-217346?logo=microsoft-excel&logoColor=white)  
+  🔗 [View Project](https://github.com/mdnhasan-data/Pure-Crumbs-Dashboard)
+
+</details>
+
+<details>
+  <summary>🧑‍💼 <strong>HR Attrition Analysis Dashboard</strong></summary>
+
+  - 🧠 Analyzes employee attrition patterns based on department, age, experience, and job satisfaction.  
+  - 🔍 Helps identify key insights into workforce retention using slicers and KPIs.  
+  ![Excel](https://img.shields.io/badge/Excel-HR_Analytics-217346?logo=microsoft-excel&logoColor=white)  
+  🔗 [View Project](https://github.com/mdnhasan-data/HR-Attrition-Dashboard)
+
+</details>
+
 
 ---
 
