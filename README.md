@@ -53,7 +53,7 @@
 <details open>
   <summary>📊 <strong>Interactive Dashboard for E-commerce KPIs</strong></summary>
 
-  - 🛒 A dynamic Excel dashboard for tracking e-commerce KPIs including revenue, orders, conversion rates, and customer retention.  
+  - 🛒 Developed a user-friendly dashboard using Excel PivotTables, charts, and slicers to visualize product performance, monthly trends, and customer behavior.  
   - 📌 Includes interactive slicers and visuals for better decision-making.  
   ![Excel](https://img.shields.io/badge/Excel-Dashboard-217346?logo=microsoft-excel&logoColor=white)  
   🔗 [View Project](https://github.com/mdnhasan-data/ecommerce-dashboard)
@@ -63,7 +63,7 @@
 <details>
   <summary>📈 <strong>Sales Performance Analysis for Online Retail</strong></summary>
 
-  - 🧾 An Excel report analyzing monthly and quarterly sales, regional performance, and product trends.  
+  - 🧾 An Excel report analyzing monthly sales, regional performance, and product trends.  
   - 📊 Built with pivot tables, charts, and interactive filters for drill-down analysis.  
   ![Excel](https://img.shields.io/badge/Excel-Report-217346?logo=microsoft-excel&logoColor=white)  
   🔗 [View Project](https://github.com/mdnhasan-data/Retail-Sales-Dashboard)
@@ -73,7 +73,7 @@
 <details>
   <summary>🍪 <strong>Profitability Dashboard for Biscuit Brand</strong></summary>
 
-  - 💰 Visualizes cost, revenue, and profit breakdowns across product lines and sales regions.  
+  - 💰 Constructed an Excel dashboard to assess profit margins across product categories. Integrated cost, revenue, and sales data to identify high- and low-performing items, supporting better business decisions.  
   - 📦 Built for a fictional brand to demonstrate product-level profitability analysis.  
   ![Excel](https://img.shields.io/badge/Excel-Profitability-217346?logo=microsoft-excel&logoColor=white)  
   🔗 [View Project](https://github.com/mdnhasan-data/Pure-Crumbs-Dashboard)
@@ -83,7 +83,7 @@
 <details>
   <summary>🧑‍💼 <strong>HR Attrition Analysis Dashboard</strong></summary>
 
-  - 🧠 Analyzes employee attrition patterns based on department, age, experience, and job satisfaction.  
+  - 🧠 Analyzes employee attrition patterns based on department, gender, age group, education, and job role.
   - 🔍 Helps identify key insights into workforce retention using slicers and KPIs.  
   ![Excel](https://img.shields.io/badge/Excel-HR_Analytics-217346?logo=microsoft-excel&logoColor=white)  
   🔗 [View Project](https://github.com/mdnhasan-data/HR-Attrition-Dashboard)
@@ -93,10 +93,6 @@
 
 ---
 
-## ✍️ Blogs & Notes
-- [Narration Handnotes (Class 8)](https://github.com/mdnhasan-data/Narration-Handnotes)
-- [Learning Logs & DAX Cheatsheets](#) (Coming Soon)
-
 ---
 
 ## 📬 Connect with Me
@@ -105,7 +101,7 @@
   <a href="https://www.linkedin.com/in/mdnhasan-data" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:mdnhasan.contact@gmail.com">
+  <a href="mailto:mdnhasan09@gmail.com@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/mdnhasan-data">
